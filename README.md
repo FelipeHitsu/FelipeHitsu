@@ -7,7 +7,7 @@
 
 #### 👨‍💻 Electronic Technician at [SENAI - PR](https://www.senaipr.org.br/).
 #### 👨‍🏫 Game Development Bachelor's Degree at [PUC - PR](https://www.pucpr.br/).
-#### 👨‍🏫 Studying CyberSecurity PostGraduation at [PUC - PR](https://www.pucpr.br/).
+#### 👨‍🏫 CyberSecurity Speacialist - PostGraduation at [PUC - PR](https://www.pucpr.br/).
 #### 💻 Working with the following technologies: C#, .Net, Angular, SQL, AWS.
 #### 👩‍💻 Studying: AWS Development, AWS Security.
 #### 🎖️ GitHub: Arctic Code Vault Contributor
